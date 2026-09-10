@@ -1,4 +1,4 @@
-# 👩‍💻 SEU NOME
+# 👩‍💻 Natália Rafaela
 
 ### Estudante de Engenharia de Software | Python | QA & Automação
 
