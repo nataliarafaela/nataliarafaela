@@ -140,6 +140,11 @@ Currently in the 6th semester
 Participant in the **Mulher Digital** program, focused on technology
 education and professional development.
 
+### Languages
+
+- **Portuguese:** Native
+- **English:** C1 — Advanced
+
 ## 📫 Let's Connect
 
 I'm always open to connecting with people in tech, learning from new
