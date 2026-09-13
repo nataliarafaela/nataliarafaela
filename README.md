@@ -140,6 +140,20 @@ Currently in the 6th semester
 Participant in the **Mulher Digital** program, focused on technology
 education and professional development.
 
+## 📫 Let's Connect
+
+I'm always open to connecting with people in tech, learning from new
+experiences, and exploring internship opportunities.
+
+<p>
+  <a href="https://linkedin.com/in/natalia-rafaela-s-ferreira">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:natalia.rafaela33@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 
 
 
